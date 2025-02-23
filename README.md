@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 ### 📚 My github history
 [![dogyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodk3268)](https://github.com/anuraghazra/github-readme-stats3)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=woodk3268)](https://solved.ac/woodk3268)
