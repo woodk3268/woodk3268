@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 ### 📚 My github history
 [![dogyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodk3268)](https://github.com/anuraghazra/github-readme-stats3)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/woodk3268"/>
+</a>
