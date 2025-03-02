@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 ### 📚 My github history
 [![dogyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodk3268)](https://github.com/anuraghazra/github-readme-stats3)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=woodk3268&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/woodk3268"
-  width="600"
-  height="300"
-/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/woodk3268"/>
 </a>
